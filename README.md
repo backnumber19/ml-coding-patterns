@@ -14,7 +14,8 @@ It translates best practices from real-world projects into clear, reusable patte
 ## 📂 Structure
 | Folder | Description |
 |--------|--------------|
-| `75-torch-vmap/` | vmap originated from JAX and was introduced to PyTorch through the functorch library |
+| `75-torch-vmap/` | vmap originated from JAX and was introduced to PyTorch through the functorch library. |
+| `67-futures/` | concurrent.futures is a standard Python library for implementing parallel processing.  |
 
 ---
 

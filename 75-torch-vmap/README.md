@@ -1,5 +1,6 @@
 # Case #75 - [PyTorch] torch.vmap
 
+
 > 🧩 Reference: [LinkedIn Post](https://www.linkedin.com/posts/backnumber19lim_pytorch-ai-ml-activity-7363130990283689984-J3ER?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4i7ZsBMeUAH3UpBvhusYv1qkmTlPJ4E6E)  
 
 Vectorization is a technique that eliminates loops and performs operations on entire datasets at once. vmap (vectorized map) is a tool that makes it easy to apply vectorization even to complex or user-defined functions.
